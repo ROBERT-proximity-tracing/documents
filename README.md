@@ -2,11 +2,11 @@
 
 ## About ROBERT
 
-ROBERT is the [Inria](https://www.inria.fr/en/) [PRIVATICS team](https://team.inria.fr/privatics/) protocol for robust and privacy-preserving proximity tracing, a proposal for Pan European Privacy-Preserving Proximity Tracing ([PEPP-PT](https://www.pepp-pt.org/)) solution.
+ROBERT is a protocol for robust and privacy-preserving proximity tracing, a proposal for Pan European Privacy-Preserving Proximity Tracing ([PEPP-PT](https://www.pepp-pt.org/)) solution.
 
-## You'll find
+## In this repo you'll find
 
-* the detailed technical specifications
+* the detailed technical specifications;
 
 ## Leave comments
 
