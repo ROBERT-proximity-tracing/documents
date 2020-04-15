@@ -10,7 +10,4 @@ ROBERT is the [Inria](https://www.inria.fr/en/) [PRIVATICS team](https://team.in
 
 ## Leave comments
 
-Everybody is free to post comments in the "issues" tab above. Please do not hesitate to select the appropriate flags (more than one could apply). Thanks. The "pull requests" tab is not expected to be usefull in this context.
-
-
-contact: robert-contact@inria.fr
+Everybody is free to post comments in the "issues" tab above. The "pull requests" tab is not expected to be usefull in this context.
