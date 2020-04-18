@@ -4,7 +4,7 @@ The main goal of proximity tracing mobile applications is to notify people that 
 
 This document proposes a ROBust and privacy-presERving proximity Tracing (ROBERT) scheme that relies on a federated server infrastructure and temporary anonymous identifiers with strong security and privacy guarantees. 
 
-## Who we are
+### Who we are
 
 The ROBERT scheme is the result of a collaborative work between Inria (collaborative effort led by PRIVATICS team) and Fraunhofer AISEC. We are a group of privacy and security researchers -- we have first rigorously analysed security and privacy implications of our scheme, and now provide the first version of our protocol to the community. We decided to follow the research convention of opening up documents only when we are sure about their quality. 
 
