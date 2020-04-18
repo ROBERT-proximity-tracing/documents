@@ -8,7 +8,6 @@ This document proposes a ROBust and privacy-presERving proximity Tracing (ROBERT
 
 The ROBERT scheme is the result of a collaborative work between Inria (collaborative effort led by the PRIVATICS team) and Fraunhofer AISEC. We are a group of privacy and security researchers. We have put a lot of effort to analyze the security and privacy implications of our protocol, and we are now happy to provide the first version to the community for scrutiny and feedback. Any comment to improve it is welcome.
 
-
 ### In this repository you will find: 
 
 * the detailed technical specification of the protocol
