@@ -1,6 +1,6 @@
-# Licence applicable to all documents in this directory, related to the ROBERT protocol.
+# Licence applicable to all documents in this directory, related to the DESIRE protocol.
 
-Attribution-NonCommercial-ShareAlike 3.0 (CC BY-NC-SA 3.0)
+[Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 You are free to:    
  * Share — copy and redistribute the material in any medium or format
@@ -11,8 +11,6 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 Under the following terms:    
 
  * Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
- * NonCommercial — You may not use the material for commercial purposes.
 
  * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
