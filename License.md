@@ -1,4 +1,4 @@
-# Licence applicable to all documents in this directory, related to the DESIRE protocol.
+# Licence applicable to all documents in this directory, related to the ROBERT protocol.
 
 [Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
