@@ -10,7 +10,8 @@ The ROBERT scheme is the result of a collaborative work between Inria (collabora
 
 ### In this repository you will find: 
 
-* the detailed technical specification of the protocol
+* the detailed technical specification of the protocol (current version is v1.1).
+  In order to easily see the differences between versions 1.0 and 1.1, a diff file (in HTML format) is available
 
 * a high-level discussion on the misleading debate about centralised versus decentralised approaches
 
